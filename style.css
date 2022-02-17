@@ -22,5 +22,15 @@ header nav {
     height: 10%;
     border: 1px solid #FFF;
     margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header nav .applink {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
 }
 
